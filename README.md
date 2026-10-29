@@ -22,7 +22,7 @@ Description.
 ## Assessment of Project
 Description.
 
-## Authors
+## Author
 Evan Dodier 
 
 [GitHub](https://github.com/edodier5) 
