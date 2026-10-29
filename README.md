@@ -1,21 +1,21 @@
 # SNHU CS-499
 Computer Science Capstone Course Completed By Evan Dodier.
 
-## Description
+## Project Description
 Description of project goals, objectives, and relevance of enhancements made.
 
 ### Enhancement Artifact One - Software Engineering and Design
-#### Item Title 
+##### Item Title 
 ###### Course Name
 Description.
 
 ### Enhancement Artifact Two - Algorithms and Data Structures
-#### Item Title 
+##### Item Title 
 ###### Course Name
 Description.
 
 ### Enhancement Artifact Three - Databases
-#### Item Title 
+##### Item Title 
 ###### Course Name
 Description.
 
@@ -23,8 +23,11 @@ Description.
 Description.
 
 ## Authors
-Evan Dodier
-[GitHub](https://github.com/edodier5)
+Evan Dodier 
+
+[GitHub](https://github.com/edodier5) 
+
+[LinkedIn](https://www.linkedin.com/in/evandodier) 
 
 ## Version History
 
