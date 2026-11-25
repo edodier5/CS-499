@@ -23,16 +23,16 @@ While completing this enhancement, I ported or translated the code design from C
 
 ### Showcase
 #### Inventory Fragment and Sort Criteria
-<img src="/assets/images/AlgorithmsAndDataStructures/InventoryScreen.png" alt="Inventory Screen" width="45%">
-<img src="/assets/images/AlgorithmsAndDataStructures/InventorySortOptions.png" alt="Inventory Sort Selected" width="45%">
+<img src="/assets/images/AlgorithmsAndDataStructures/InventoryScreen.png" alt="Inventory Screen" width="30%">
+<img src="/assets/images/AlgorithmsAndDataStructures/InventorySortOptions.png" alt="Inventory Sort Selected" width="30%">
 
 #### Quantity Sort (Ascending and Descending)
-<img src="/assets/images/AlgorithmsAndDataStructures/QuantityAscending.png" alt="Ascending" width="45%">
-<img src="/assets/images/AlgorithmsAndDataStructures/QuantityDescending.png" alt="Descending" width="45%">
+<img src="/assets/images/AlgorithmsAndDataStructures/QuantityAscending.png" alt="Ascending" width="30%">
+<img src="/assets/images/AlgorithmsAndDataStructures/QuantityDescending.png" alt="Descending" width="30%">
 
 #### Alphabetical Order (Forward and Reverse)
-<img src="/assets/images/AlgorithmsAndDataStructures/Alphabetical.png" alt="Forward" width="45%">
-<img src="/assets/images/AlgorithmsAndDataStructures/ReverseAlphabetical.png" alt="Reverse" width="45%">
+<img src="/assets/images/AlgorithmsAndDataStructures/Alphabetical.png" alt="Forward" width="30%">
+<img src="/assets/images/AlgorithmsAndDataStructures/ReverseAlphabetical.png" alt="Reverse" width="30%">
 
 ## Artifact Three - Databases
 ##### Inventory Android Mobile Application - CS-360 Mobile Architecture and Programming // 
