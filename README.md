@@ -42,7 +42,7 @@ Description.
 Description.
 ### Showcase
 #### Database Entity-Relationship Diagram
-<img src="assets/images/Databases/DatabaseERD.png" alt="Inventory Screen" width="100%">
+<img src="assets/images/Databases/DatabaseERD.jpg" alt="Inventory Screen" width="100%">
 
 ## Code Review
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/rD0sw-YqvbI?si=LgQH0BvFM5lnUG8Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
