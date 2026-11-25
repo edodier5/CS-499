@@ -21,13 +21,18 @@ Including this vector sorting assignment as an artifact in my portfolio was inte
 ### Enhancement
 While completing this enhancement, I ported or translated the code design from C++ into Java. Within the inventory application, it is contained in the Quicksort class under the tools package. To make further enhancement upon the translation of the code into Java, I aimed to make my new implementation more modular and flexible. The original vector sorting assignment was only able to sort by the title of each object in the vector. In the enhancement, I wrote the class using Java generics which allow the quicksort method to be called using different data models of the application, for instance the InventoryModel, ItemModel, or EventModel. Another limitation of the vector sorting assignment was only including the functionality of one comparison method. By utilizing the Java comparator interface, the method of comparison could be defined as the quicksort method is called. This allows the method to be modular and reused on different data types of the inventory applications data models.
 
-### Example Showcase
+### Showcase
 #### Inventory Fragment and Sort Criteria
-![Inventory Screen](/CS-499/assets/images/AlgorithmsAndDataStructures/InventoryScreen.png) ![Inventory Sort Selected](/CS-499/assets/images/AlgorithmsAndDataStructures/InventorySortOptions.png)
+<img src="/CS-499/assets/images/AlgorithmsAndDataStructures/InventoryScreen.png" alt="Inventory Screen" width="45%">
+<img src="/CS-499/assets/images/AlgorithmsAndDataStructures/InventorySortOptions.png" alt="Inventory Sort Selected" width="45%">
+
 #### Quantity Sort (Ascending and Descending)
-![Ascending](/CS-499/assets/images/AlgorithmsAndDataStructures/QuantityAscending.png) ![Descending](/CS-499/assets/images/AlgorithmsAndDataStructures/QuantityDescending.png)
+<img src="/CS-499/assets/images/AlgorithmsAndDataStructures/QuantityAscending.png" alt="Ascending" width="45%">
+<img src="/CS-499/assets/images/AlgorithmsAndDataStructures/QuantityDescending.png" alt="Descending" width="45%">
+
 #### Alphabetical Order (Forward and Reverse)
-![Forward](/CS-499/assets/images/AlgorithmsAndDataStructures/Alphabetical.png) ![Reverse](/CS-499/assets/images/AlgorithmsAndDataStructures/ReverseAlphabetical.png)
+<img src="/CS-499/assets/images/AlgorithmsAndDataStructures/Alphabetical.png" alt="Forward" width="45%">
+<img src="/CS-499/assets/images/AlgorithmsAndDataStructures/ReverseAlphabetical.png" alt="Reverse" width="45%">
 
 ## Artifact Three - Databases
 ##### Inventory Android Mobile Application - CS-360 Mobile Architecture and Programming // 
